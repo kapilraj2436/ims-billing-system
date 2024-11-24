@@ -11,12 +11,12 @@ Steps --
 4. Main class - com.inventory.store.InventoryApplication
 
 **FrondEnd Code**
-5. ims-billing-frontend -> npm install
-6. ims-billing-frontend -> npm start
+1. ims-billing-frontend -> npm install
+2. ims-billing-frontend -> npm start
 
 
 **FrondEnd Code**
-7. install mysql in system
-8. import the dump attached with this repository
-9. mysql -u root -p
-10. mysqldump -u root -p inventory_management <database_inventory_management_dump.sql
+1. install mysql in system
+2. import the dump attached with this repository
+3. mysql -u root -p
+4. mysqldump -u root -p inventory_management <database_inventory_management_dump.sql
