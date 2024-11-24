@@ -14,7 +14,8 @@ Steps --
 5. ims-billing-frontend -> npm install
 6. ims-billing-frontend -> npm start
 
-**Database** 
+
+**FrondEnd Code**
 7. install mysql in system
 8. import the dump attached with this repository
 9. mysql -u root -p
